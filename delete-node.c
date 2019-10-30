@@ -2,7 +2,7 @@
  *Computer Science
  *Data structure
  *Kyungha Min Prof.
- *Student: Luong Duc Anh ·Éµæ¾ÆÀ× - 201685044
+ *Student: Luong Duc Anh Â·Ã‰ÂµÃ¦Â¾Ã†Ã€Ã— - 201685044
  *Practice 8: Tree
 /*********************************************************************************************/
 #include<stdio.h>
